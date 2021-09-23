@@ -166,7 +166,7 @@ Your task is to find, decode, and document six of the menus from the hard drive 
 
 Refer to the following solution files for the homework worksheets: 
 
-* [Week 21 Homework Solution: Digital Forensics - Final Report]()  
+* [Week 21 Homework Solution: Digital Forensics - Final Report](/Case_Final_Report_KVP_SJ.pdf)  
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
