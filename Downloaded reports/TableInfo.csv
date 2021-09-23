@@ -1,0 +1,13 @@
+TableName,SoftwareVersion,SerialNumber
+CompassCalibration,370.3,86004482Y7H
+WifiLocation,370.3,86004482Y7H
+Location,370.3,86004482Y7H
+Wifi,370.3,86004482Y7H
+Cell,370.3,86004482Y7H
+CellLocation,370.3,86004482Y7H
+CellLocationBoxes,370.3,86004482Y7H
+CellLocationLocal,370.3,86004482Y7H
+CellLocationLocalBoxes,370.3,86004482Y7H
+CellLocationHarvest,370.3,86004482Y7H
+WifiLocationHarvest,370.3,86004482Y7H
+LocationHarvest,370.3,86004482Y7H
